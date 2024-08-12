@@ -15,9 +15,9 @@ const Hero = () => {
           Master the art of music
         </h1>
         <p className="mt-4 font-normal text-base md:text-xl text-neutral-300 max-w-lg mx-auto">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus
-          voluptate eum praesentium! Vero dolorum facere, accusamus saepe
-          laboriosam nam esse, fugit .
+          Dive into our comprehensive music courses and transform your musical
+          journey today .Whether you're a beginner or looking to refine your
+          skills, join us to unlock your true potential
         </p>
         <div className="mt-4">
           <Link href={"/courses"}>
