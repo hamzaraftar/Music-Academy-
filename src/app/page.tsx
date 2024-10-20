@@ -1,5 +1,6 @@
 import FeaturedCourses from "./components/FeaturedCourses";
 import Hero from "./components/Hero";
+import TestimonialCards from "./components/TestimonialCards";
 import WhyChoseUs from "./components/WhyChoseUs";
 
 export default function Home() {
@@ -8,6 +9,7 @@ export default function Home() {
       <Hero />
       <FeaturedCourses />
       <WhyChoseUs />
+      <TestimonialCards />
     </>
   );
 }
